@@ -2,7 +2,7 @@
 
 ## Overview
 
-The following analysis primary objective was to specifically measure the temperature data trends on Oahu within the months of June and December prior to opening a surf shop. We believe that with this data that there is a correlation between the temperature on Oahu and the success of a surf shop and ice cream shop. The main theory is that is there is sustainable weather year-round with little to no precipitation that we will see an increase in ice cream and surf shop sales.
+The primary objective of our analysis was to specifically measure the temperature data trends on the island of Oahu during the months of June and December. We believe that with key metrics of temperature and precipitation  that there is a correlation to the level of success prior to opening a new business of a Surf and Ice-Cream shop. The main theory is if there is sustainable weather year-round with little to no precipitation that we will see an increase in ice cream and surf shop sales.
 
 ## Results
 
