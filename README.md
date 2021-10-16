@@ -4,6 +4,9 @@
 
 The primary objective of our analysis was to specifically measure the temperature data trends on the island of Oahu during the months of June and December. We believe that with key metrics of temperature and precipitation  that there is a correlation to the level of success prior to opening a new business of a Surf and Ice-Cream shop. The main theory is if there is sustainable weather year-round with little to no precipitation that we will see an increase in ice cream and surf shop sales.
 
+## Technology Used:
+Python, SQL, NumPy, Pandas, Flask, MatPlotLib
+
 ## Results
 
 **June** (based off 1,700 temperature changes)
