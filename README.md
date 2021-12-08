@@ -26,8 +26,8 @@ Python, SQL, NumPy, Pandas, Flask, MatPlotLib
 
 ## Summary
 
-For further analysis I would recommend gathering the amount of precipitation as well as the humidity percentage for the months of June and December.
+Based on the following temperature results and summary statistics, we would suggest that Oahu does show sustainable temperature year-round that would be consistent with surf shop and ice cream sales for a new business owner. 
 
-Based on the following temperature results we would suggest that Oahu does show sustainable temperature year-round that would be consistent with surf shop and ice cream sales for a new business owner. 
-
+For further analysis to strongly evaluate our theory, I would recommend gathering the daily precipitation as well as the humidity percentage daily reports for the months of June and December to determine if the rainfall does show a significant difference between sales on rainy days compared to sunny days. As history does show, the islands of Hawaii does bring rainfall but the locals will always make time to go surfing and enjoy ice cream at the end of the day.
+ 
 # Mahalo!
